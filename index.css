@@ -14,7 +14,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background:rgb(0, 0, 50);
+    background:rgb(56, 70, 110);
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -79,7 +79,7 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:rgb(0, 0, 52);
+    color:rgb(56, 70, 110);
     font-size:70px;
     text-decoration:italic;
 }
@@ -155,19 +155,19 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #projects:hover {
-    background:rgba(16, 16, 17, 0.9);
+    background:rgba(30, 81, 123, 0.9);
     cursor:pointer;
 }
 #about:hover {
-    background:rgba(16, 17, 17, 0.9);
+    background:rgba(30, 81, 123, 0.9);
     cursor:pointer;
 }
 #work:hover {
-    background:rgba(16, 16, 16, 0.9);
+    background:rgba(30, 81, 123, 0.9);
     cursor:pointer;
 }
 #contact:hover {
-    background:rgba(12, 12, 12, 0.9);
+    background:rgba(133, 187, 101, 0.9);
     cursor:pointer;
 }
 #middle table {
@@ -187,13 +187,13 @@ body {
 }
 .social:hover { 
     cursor: pointer;
-    color:rgb(12, 12, 12);
+    color:rgb(248, 152, 128);
 }
 .container {
     width:90vw;
     height:90vh;
     padding:5vh 5vw;
-    background:rgb(11, 11, 11);
+    background:rgb(56, 70, 110);
     color:#fff;
     z-index:9;
     position:fixed;
