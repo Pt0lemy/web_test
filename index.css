@@ -26,7 +26,7 @@ body {
     width:50px;
     height:50px;
     border:12px solid #fff;
-    border-bottom:12px solid rgb(79, 98, 85);
+    border-bottom:12px solid rgb(0, 0, 128);
     border-radius:50%;
     margin:0;
 }
