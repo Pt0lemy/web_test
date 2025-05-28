@@ -12,7 +12,7 @@ var particles = {
             value: "#ffffff"
         },
         shape: {
-            type: "circle"
+            type: "square"
         },
         opacity: {
             value: 1,
