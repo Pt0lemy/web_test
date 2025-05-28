@@ -291,7 +291,7 @@ body {
     background:transparent;
     resize:none;
     transition:0.4s ease-in-out;
-    color:#fff;
+    color:#000000;
     font-weight:bold;
 }
 .container form input:focus {
