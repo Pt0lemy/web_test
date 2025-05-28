@@ -98,16 +98,22 @@
 
 - Cite any other references you have used and update the references.
 
-Earth image:
+Plastic Bottle Background:
 https://earth.google.com/web
 
-X-Men image:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.menshealth.com%2Fentertainment%2Fa34773910%2Fx-men-movie-order%2F&psig=AOvVaw2ldcTVfbYTjRs34kqN2iiS&ust=1747758677875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNithMv6r40DFQAAAAAdAAAAABAE
+plastic bottle image:
+https://www.google.com/search?sca_esv=c28d7f4a7239b712&rlz=1C5CHFA_enUS972US972&q=plastic+bottles&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zENwnGygERInUV_0g0XKeHGJBEXLz4R1Z33kknVKOo4klLIPY3HEx3TD4815xZz7czOhNl7zvOujyaegiZ-gB1z3Y5dG0D3ujIkwQSGAXzKG43IYv7IkNSYczKvaobZOg-kD57VDd0zAQSsWlWkGIoZ8Z28q5w&sa=X&ved=2ahUKEwiXser72caNAxWVCjQIHYB0GsIQtKgLegQIFBAB&biw=1425&bih=739&dpr=2&safe=active&ssui=on#vhid=pnlZi4CCwri8yM&vssid=mosaic
 
 Code reference:
 
 https://github.com/ndoherty-xyz/unemployables-portfolio-template
 
-https://roboticenergyllc.com
+https://www.shaktiplasticinds.com/plastic-recycling-an-essential-solution-to-our-planets-plastic-waste-problem/ 
+
+https://www.sciencedirect.com/science/article/pii/S2772397624000042
+
+https://www.nationalgeographic.com/environment/article/plastic-pollution
+
+https://www.unep.org/plastic-pollution#:~:text=Plastic%20pollution%20can%20alter%20habitats,t%20exist%20in%20a%20vacuum.
 
 
