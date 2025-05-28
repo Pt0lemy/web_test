@@ -62,7 +62,7 @@ body {
 #menu a {
     margin:0px 6%;
     font-size:19px;
-    color:#000000;
+    color:#fff;
     text-decoration:bold;
 }
 #middle {
@@ -75,7 +75,7 @@ body {
     top:0;
     text-align:center;
     z-index:1;
-    color:#000000;
+    color:#fff;
     padding-bottom:10vh;
 }
 #middle h1 {
